@@ -8,10 +8,10 @@
 
 ### 💻 Sobre Mí
 
-Desarrollador Fullstack con experiencia construyendo y desplegando aplicaciones en producción utilizando .NET, Laravel, Vue.js y SQL[cite: 4]. Experiencia en desarrollo end-to-end, incluyendo levantamiento de requerimientos, diseño de APIs, arquitectura de bases de datos y despliegue en la nube[cite: 5]. Enfocado en desarrollo backend y soluciones escalables[cite: 6].
+Desarrollador Fullstack con experiencia construyendo y desplegando aplicaciones en producción utilizando .NET, Laravel, Vue.js y SQL. Experiencia en desarrollo end-to-end, incluyendo levantamiento de requerimientos, diseño de APIs, arquitectura de bases de datos y despliegue en la nube. Enfocado en desarrollo backend y soluciones escalables.
 
 - 🔭 **Actualmente construyendo:** Una aplicación CRUD con una API robusta en .NET y un frontend moderno con Next.js y TypeScript.
-- 💼 **Experiencia destacada:** Desarrollo de APIs REST y mi gración de sistemas legacy.
+- 💼 **Experiencia destacada:** Desarrollo de APIs REST, migración de sistemas legacy y traducción de necesidades de negocio a soluciones técnicas.
 
 ---
 
