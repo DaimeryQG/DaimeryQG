@@ -1,46 +1,86 @@
-## Hola 👋 Soy Daimery Quintero Gonzalez
+<h1 align="center">Hola 👋, Soy Daimery Quintero Gonzalez</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaimeryQG&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaimeryQG&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Lenguajes Top" />
+  <em>Desarrollador Fullstack enfocado en el desarrollo backend y soluciones escalables.</em>
 </p>
 
 ---
 
 ### 💻 Sobre Mí
 
-[cite_start]Soy un Desarrollador Fullstack enfocado en el desarrollo backend y en la creación de soluciones escalables[cite: 6]. [cite_start]Tengo experiencia construyendo y desplegando aplicaciones en producción [cite: 4][cite_start], gestionando el ciclo completo desde el levantamiento de requerimientos hasta el despliegue en la nube[cite: 5, 26]. 
+Desarrollador Fullstack con experiencia construyendo y desplegando aplicaciones en producción utilizando .NET, Laravel, Vue.js y SQL[cite: 4]. Experiencia en desarrollo end-to-end, incluyendo levantamiento de requerimientos, diseño de APIs, arquitectura de bases de datos y despliegue en la nube[cite: 5]. Enfocado en desarrollo backend y soluciones escalables[cite: 6].
 
-- 🔭 **Actualmente construyendo:** Una aplicación CRUD bien estructurada, integrando una API robusta en .NET con un frontend moderno utilizando Next.js y TypeScript.
-- [cite_start]💼 **Experiencia destacada:** He participado en la migración de sistemas legacy [cite: 20] [cite_start]y en el desarrollo end-to-end de un Sistema Punto de Venta (POS) desplegado en Azure[cite: 37, 42].
-- [cite_start]🎓 **Formación:** Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Querétaro[cite: 44, 45].
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-**Frontend & Backend**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Bases de Datos & Cloud**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+- 🔭 **Actualmente construyendo:** Una aplicación CRUD con una API robusta en .NET y un frontend moderno con Next.js y TypeScript.
+- 💼 **Experiencia destacada:** Desarrollo de APIs REST y mi gración de sistemas legacy.
 
 ---
 
-### 📫 Contáctame
+### 🎯 Área de Enfoque (Focus Area)
 
-<p align="left">
-  <a href="mailto:quinterogonzalezdaimery@gmail.com">
-    <img src="https://img.shields.io/badge/Email-quinterogonzalezdaimery%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+Soy un desarrollador con experiencia en producción gestionando el ciclo de vida completo del software. Mi enfoque principal se centra en:
+
+* **Arquitectura Backend:** Diseño y desarrollo de APIs REST robustas y servicios escalables utilizando **.NET**, **Spring Boot** y **Laravel**.
+* **Modernización de Sistemas:** Migración de sistemas legacy hacia arquitecturas modernas y eficientes, garantizando la continuidad operativa.
+* **Desarrollo Frontend Moderno:** Creación de interfaces dinámicas y optimizadas utilizando **Next.js**, **React** y **Vue.js** con **TypeScript**.
+* **Bases de Datos y Cloud:** Diseño de bases de datos relacionales (SQL Server, MySQL) y despliegue de aplicaciones en la nube (Azure, GCP).
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="45" />
+</p>
+
+<h3 align="center">Bases de Datos y Cloud</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="45" />
+</p>
+
+<h3 align="center">Herramientas</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="45" />
+</p>
+
+---
+
+### 🌐 Redes Sociales y Contacto
+
+<p align="center">
   <a href="https://linkedin.com/in/daimery-quintero-81ba54286">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:quinterogonzalezdaimery@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/DaimeryQG">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://assets.breatheco.de/apis/img/images/coding.gif" alt="Coding GIF" width="280" />
 </p>
